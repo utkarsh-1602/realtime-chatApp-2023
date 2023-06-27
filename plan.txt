@@ -1,0 +1,8 @@
+create NPM project 
+create index, css, js files 
+install dependencies, nodemon, express
+create an express server
+do frontend part
+install socket i.o, setup socket.io on server.js and client.js 
+
+to run - npm run dev
