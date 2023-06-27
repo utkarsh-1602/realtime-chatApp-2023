@@ -17,7 +17,7 @@ This is a real-time chat application built using Node.js, Express, and Socket.IO
 
 ## Deployment
 
-The application is deployed on [Render](https://render.com), a cloud platform for hosting and scaling web applications. You can access the live demo of the chat application at [https://your-app-url](https://your-app-url).
+The application is deployed on [Render](https://render.com), a cloud platform for hosting and scaling web applications. You can access the live demo of the chat application at [Real-time Chat Application 2023](https://realtime-chatapplication.onrender.com/).
 
 ## Usage
 
@@ -37,3 +37,6 @@ The application is deployed on [Render](https://render.com), a cloud platform fo
 ### Open your web browser and visit http://localhost:3000 to access the chat application.
 Enter your desired username and join a chat room to start communicating with other users in real-time.
 
+
+# Screenshots
+![ChatApp](./screenshot.png)
