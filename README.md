@@ -2,6 +2,10 @@
 
 This is a real-time chat application built using Node.js, Express, and Socket.IO. It allows users to connect and communicate with each other in real-time.
 
+
+## Screenshots
+![chatApp](screenshot.png?raw=true "collection1")
+
 ## Features
 
 - Real-time communication using Socket.IO
@@ -38,5 +42,3 @@ The application is deployed on [Render](https://render.com), a cloud platform fo
 Enter your desired username and join a chat room to start communicating with other users in real-time.
 
 
-# Screenshots
-![chatApp](screenshot.png?raw=true "collection1")
