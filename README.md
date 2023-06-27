@@ -34,6 +34,6 @@ The application is deployed on [Render](https://render.com), a cloud platform fo
   npm start
 
 
-###Open your web browser and visit http://localhost:3000 to access the chat application.
+### Open your web browser and visit http://localhost:3000 to access the chat application.
 Enter your desired username and join a chat room to start communicating with other users in real-time.
 
