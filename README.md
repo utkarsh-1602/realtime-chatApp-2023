@@ -39,4 +39,4 @@ Enter your desired username and join a chat room to start communicating with oth
 
 
 # Screenshots
-[ChatApp](./screenshot.png)
+![chatApp](screenshot.png?raw=true "collection1")
